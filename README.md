@@ -1,2 +1,2 @@
 # flask-projects-programs
-This is my flask projects repositories
+This is my flask projects repository
